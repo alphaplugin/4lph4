@@ -13,6 +13,13 @@
       "genre": "Entretenimiento",
       "poster": "https://i.imgur.com/bZWoDTg.png",
       "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
+    },
+    {
+      "title": "ESPN Deportes",
+      "description": "ESPN es un grupo de canales de televisión por suscripción estadounidense especializado en los deportes",
+      "genre": "Deportes",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png",
+      "url": "https://e3.thetvapp.to/hls/espn-deportes/index.m3u8"
     }
   ],
   "peliculas": [
