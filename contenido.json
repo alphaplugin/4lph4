@@ -6,6 +6,45 @@
       "genre": "Deportes",
       "poster": "https://github.com/k-lamar09/cds/releases/download/MKc-02/B31n.Xtr4.png",
       "url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8"
+    },
+    {
+      "title": "Otro Canal",
+      "description": "Descripcion del canal",
+      "genre": "Entretenimiento",
+      "poster": "https://url-del-poster.png",
+      "url": "https://url-del-stream.m3u8"
+    }
+  ],
+  "peliculas": [
+    {
+      "title": "Nombre de la Pelicula",
+      "description": "Sinopsis de la pelicula",
+      "genre": "Accion",
+      "poster": "https://url-del-poster.jpg",
+      "url": "https://url-del-video.mp4"
+    },
+    {
+      "title": "Otra Pelicula",
+      "description": "Otra sinopsis",
+      "genre": "Drama",
+      "poster": "https://url-del-poster.jpg",
+      "url": "https://url-del-video.mp4"
+    }
+  ],
+  "series": [
+    {
+      "title": "Nombre de la Serie - S01E01",
+      "description": "Descripcion del episodio",
+      "genre": "Comedia",
+      "poster": "https://url-del-poster.jpg",
+      "url": "https://url-del-episodio.mp4"
+    },
+    {
+      "title": "Nombre de la Serie - S01E02",
+      "description": "Otro episodio",
+      "genre": "Comedia",
+      "poster": "https://url-del-poster.jpg",
+      "url": "https://url-del-episodio.mp4"
     }
   ]
 }
