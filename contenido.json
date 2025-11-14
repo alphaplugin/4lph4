@@ -1,0 +1,33 @@
+{
+    "peliculas": [
+        {
+            "id": "p001",
+            "titulo": "Ejemplo Película 1",
+            "descripcion": "Descripción de la película 1",
+            "año": 2023,
+            "genero": "Acción",
+            "url": "https://ejemplo.com/pelicula1.mp4",
+            "poster": "https://ejemplo.com/posters/pelicula1.jpg"
+        }
+    ],
+    "series": [
+        {
+            "id": "s001",
+            "titulo": "Ejemplo Serie 1",
+            "descripcion": "Descripción de la serie 1",
+            "año": 2023,
+            "temporadas": [
+                {
+                    "numero": 1,
+                    "capitulos": [
+                        {
+                            "numero": 1,
+                            "titulo": "Capítulo 1",
+                            "url": "https://ejemplo.com/serie1/s1e1.mp4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
